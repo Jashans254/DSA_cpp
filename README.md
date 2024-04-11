@@ -7,6 +7,7 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 1. [Basic Array Problems](#basic-array-problems)
 2. [Sorting Algorithms](#sorting-algorithms)
 3. [Binary Search](#binary-search)
+4. [Matrix-Problems](#Matrix-Problems)
 
 ## Basic Array Problems
 
@@ -65,6 +66,9 @@ Peak index in Mountain array[Leetcode Link](https://leetcode.com/problems/peak-i
 ### 9. [Binary Search Problem 9](./binarySearch/p9_FindMinRotatedArray.cpp)
 Find Min in Rotated Array[Leetcode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 <!-- Add more binary search problems as needed -->
+
+## Matrix-Problems
+
 
 ## YouTube Channel
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
