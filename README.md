@@ -7,7 +7,9 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 1. [Basic Array Problems](#basic-array-problems)
 2. [Sorting Algorithms](#sorting-algorithms)
 3. [Binary Search](#binary-search)
-4. [Matrix-Problems](#Matrix-Problems)
+4. [Matrix Problems](#Matrix-Problems)
+5. [STL](#STL)
+6. 
 
 ## Basic Array Problems
 
@@ -68,6 +70,32 @@ Find Min in Rotated Array[Leetcode Link](https://leetcode.com/problems/find-mini
 <!-- Add more binary search problems as needed -->
 
 ## Matrix-Problems
+This section focuses on problems related to 2-D array.
+
+### 1. [Matrix-Problem1](./Matrix/basic_opns.cpp) 
+print  matrix col wise , row wise  , find element by linear search 
+### 2. [Matrix-Problem2](./Matrix/Add2Matrix.cpp) 
+We r are given two matrices A & B with same size , we have to find their sum A + B = C
+### 3. [Matrix-Problem3](./Matrix/printSumDiaEle.cpp) 
+Printing sum of diagonal elements 
+### 4. [Matrix-Problem4](./Matrix/RowIdxMaxSum.cpp) 
+Given a Matrix m * n  , we have to find the row index with maximum sum
+### 5. [Matrix-Problem5](./Matrix/ReverseEachRow.cpp) 
+Reverse each row of matrix 
+
+## STL 
+This section focuses on standard template library
+### 1. [Pair](./pair.cpp) 
+### 2. [List](./list.cpp) 
+### 3. [Set](./set.cpp) 
+### 4. [Multiset](./multiset.cpp) 
+### 5. [Map](./map.cpp) 
+### 6. [Unordered Set](./unorderdset.cpp) 
+
+## Pointers
+This section focuses on pointers
+
+
 
 
 ## YouTube Channel
