@@ -9,7 +9,7 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 3. [Binary Search](#binary-search)
 4. [Matrix Problems](#Matrix-Problems)
 5. [STL](#STL)
-6. 
+6. [Pointers](#pointers)
 
 ## Basic Array Problems
 
@@ -70,6 +70,7 @@ Find Min in Rotated Array[Leetcode Link](https://leetcode.com/problems/find-mini
 <!-- Add more binary search problems as needed -->
 
 ## Matrix-Problems
+
 This section focuses on problems related to 2-D array.
 
 ### 1. [Matrix-Problem1](./Matrix/basic_opns.cpp) 
@@ -85,16 +86,31 @@ Reverse each row of matrix
 
 ## STL 
 This section focuses on standard template library
-### 1. [Pair](./pair.cpp) 
-### 2. [List](./list.cpp) 
-### 3. [Set](./set.cpp) 
-### 4. [Multiset](./multiset.cpp) 
-### 5. [Map](./map.cpp) 
-### 6. [Unordered Set](./unorderdset.cpp) 
+### 1. [Pair](./STL/pair.cpp) 
+### 2. [List](./STL/list.cpp) 
+### 3. [Set](./STL/set.cpp) 
+### 4. [Multiset](./STL/multiset.cpp) 
+### 5. [Map](./STL/map.cpp) 
+### 6. [Unordered Set](./STL/unorderdset.cpp) 
 
 ## Pointers
+
 This section focuses on pointers
 
+### 1. [Lec1](./pointers/lec1.cpp)
+Basics about pointers
+### 2. [Lec2](./pointers/lec2.cpp) 
+pointer with array and pointer arthimetic
+### 3. [Lec3](./pointers/lec3.cpp) 
+pointers with char array , function calls , length & palandrone string 
+### 4. [Lec4](./pointers/lec4.cpp) 
+double pointers - 7 problems ; copying str
+### 5. [Lec4_hw](./pointers/lec4_hw.cpp) 
+lower to upper ,reverse a string , concatenate :-strings & update ,swap values
+### 6. [Lec5](./pointers/lec5_MM.cpp) 
+Memory Management in 1-D array
+### 7. [Lec6](./pointers/lec6.cpp) 
+2-D , 3-D , 4-D Array Memory Allocation and Deallocation
 
 
 
