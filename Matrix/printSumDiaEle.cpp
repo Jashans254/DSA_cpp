@@ -22,5 +22,9 @@ int main()
         i++;
         j--;
     }
-    cout<<"Second sum is "<<second;
+    cout<<"Second sum is "<<second; 
+
+    // if we want total sum of both diagonals then we have to check if the size of matrix is 
+    // odd (n%2==1) then we subtract a[n/2][n/2] element from total sum 
+    // for even do nothing
 }
