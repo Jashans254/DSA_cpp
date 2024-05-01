@@ -102,6 +102,15 @@ This section focuses on pointers
 ### 7. [Lec6](./pointers/lec6.cpp) 2-D , 3-D , 4-D Array Memory Allocation and Deallocation
 
 ## Recursion
+All about function calling itslef repeatedly untill base condition.
+
+### 1. [lec1](./recursion/lec1.cpp) iterative vs mutliple function vs recursion ;printNto1(5);printOddNto1(10);printEvenNto1(10);printName("Helloji");
+### 2. [lec2](./recursion/lec2.cpp) one vs two arguments ; print1toN(10);print10toN(11);tableN(2);
+### 3. [lec3](./recursion/lec3.cpp) factorial ; sumN ; powerof2 ;sumSqNno ; [powerof4](./recursion/lec3_powerof4.cpp) ; ***[leetcode]( https://leetcode.com/problems/power-of-four/description/)***
+### 4. Lec4 [primeno](./recursion/lec4_prime.cpp)  ; [SumNcubes](./recursion/lec4_SumOfNCubes.cpp) 
+### 5. Lec5 [Count No of hops](./recursion/lec5_countNoOfHops.cpp) :-***[gfg](//https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***  ; [fibonacci](./recursion/lec5_fib.cpp) :- ***[Leetcode](https://leetcode.com/problems/fibonacci-number/)*** ; [GCD](./recursion/lec5_gcd.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** ;  [Nth stair](./recursion/lec5_nth.cpp) :- ***[leetcode](https://leetcode.com/problems/climbing-stairs/description/)*** ; [Print N fibonacci nos](./recursion/lec5_printFib.cpp) :- ***[GFG]( https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+### 6. [lec6](./recursion/lec6_recArray.cpp) printArray ( 3 approaches) ; sum (2 approach) , evensum, product , min , max
+### 7. lec7 
 ## YouTube Channel
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
