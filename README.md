@@ -10,7 +10,7 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 4. [Matrix Problems](#Matrix-Problems)
 5. [STL](#STL)
 6. [Pointers](#pointers)
-7. [Recursion] (#recursion)
+7. [Recursion](#recursion)
 
 ## Basic Array Problems
 
