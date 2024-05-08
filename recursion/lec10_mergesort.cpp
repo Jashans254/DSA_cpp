@@ -36,7 +36,7 @@ void  merge( int arr[] , int start , int mid  , int end)
     // left 
     while(left<=end)
     {
-        temp[index] == arr[left];
+        temp[index] = arr[left];
         index++ , left++;
     }
     while(right <= end)

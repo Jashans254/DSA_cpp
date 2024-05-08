@@ -3,16 +3,19 @@
 This repository contains various Data Structures and Algorithms (DSA) topics implemented in C++ . It contains topicwise problem link and solution code of various DSA topics .
  
 ## Table of Contents
-
+0. [Basic DSA /Math](#basic-dsa-/math-problems)
 1. [Basic Array Problems](#basic-array-problems)
 2. [Sorting Algorithms](#sorting-algorithms)
 3. [Binary Search](#binary-search)
-4. [Matrix Problems](#Matrix-Problems)
+4. [Matrix Problems](#matrix-problems)
 5. [STL](#STL)
 6. [Pointers](#pointers)
 7. [Recursion](#recursion)
 
-## Basic Array Problems
+## Basic DSA /Math Problems 
+$1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ;$13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
+)***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
+## Basic Array Problems 
 
 This section covers fundamental problems related to arrays.
 
@@ -70,7 +73,7 @@ Peak index in Mountain array[Leetcode Link](https://leetcode.com/problems/peak-i
 Find Min in Rotated Array[Leetcode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 <!-- Add more binary search problems as needed -->
 
-## Matrix-Problems
+## Matrix Problems
 
 This section focuses on problems related to 2-D array.
 
@@ -110,7 +113,11 @@ All about function calling itslef repeatedly untill base condition.
 ### 4. Lec4 [primeno](./recursion/lec4_prime.cpp)  ; [SumNcubes](./recursion/lec4_SumOfNCubes.cpp) 
 ### 5. Lec5 [Count No of hops](./recursion/lec5_countNoOfHops.cpp) :-***[gfg](//https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***  ; [fibonacci](./recursion/lec5_fib.cpp) :- ***[Leetcode](https://leetcode.com/problems/fibonacci-number/)*** ; [GCD](./recursion/lec5_gcd.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** ;  [Nth stair](./recursion/lec5_nth.cpp) :- ***[leetcode](https://leetcode.com/problems/climbing-stairs/description/)*** ; [Print N fibonacci nos](./recursion/lec5_printFib.cpp) :- ***[GFG]( https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
 ### 6. [lec6](./recursion/lec6_recArray.cpp) printArray ( 3 approaches) ; sum (2 approach) , evensum, product , min , max
-### 7. lec7 
+### 7. lec7 [CheckPal](./recursion/lec7_checkpal.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/palindrome-string0817/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab%255C)*** ; [CheckVowels](./recursion/lec7_checkvowels.cpp) ; [CountConsonants](./recursion/lec7_countconson.cpp) ; [RevStr](./recursion/lec7_revStr.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/java-reverse-a-string0416/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; [toUpper](./recursion/lec7_lowerToUpper.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; [toLwr](./recursion/lec7_toLower.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+### 8. [lec8_Binary_Search](./recursion/lec8_binarySearch.cpp)
+### 9. [lec9_TC_SC](./recursion/lec9_TC_SC.cpp)
+### 10. [lec10_mergesort](./recursion/lec10_mergesort.cpp) :- ***[LeetCode](https://leetcode.com/problems/sort-an-array/description/)***
+
 ## YouTube Channel
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
