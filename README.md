@@ -33,7 +33,16 @@ This section covers fundamental problems related to arrays.
 
 ### 7. [Problem7](./Array/p7_fibonacci.cpp)  store fibonaci series :- 0,1,1,2,3,5,8,13.... in an array
 
-### 9. [Problem8](./Array/p8_rotatearrayby1.cpp) Rotate array by 1
+### 8. [Problem8](./Array/p8_rotatearrayby1.cpp) Rotate array by 1 ***[GfG link](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+
+### 9. [Problem9](./Array/p9_missingno.cpp) Missing no ***[GfG link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+
+### 10. [Problem10](./Array/p10_smallestposmissingNO.cpp) Smallest Postive Missing no ***[GfG link](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+
+### 11. [Problem11](./Array/p11_MoveNegEle2end.cpp) Move all negative elements to end ***[GfG link](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+
+
+### 12. [Problem12](./Array/p12_countNoEle2nos.cpp) Count number of elements between two given elements in array ***[GfG link](https://www.geeksforgeeks.org/problems/count-number-of-elements-between-two-given-elements-in-array4044/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
 <!-- Add more problems as needed -->
 
 ## Sorting Algorithms
