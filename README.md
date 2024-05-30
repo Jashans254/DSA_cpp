@@ -127,6 +127,8 @@ All about function calling itslef repeatedly untill base condition.
 ### 9. [lec9_TC_SC](./recursion/lec9_TC_SC.cpp)
 ### 10. [lec10_mergesort](./recursion/lec10_mergesort.cpp) :- ***[LeetCode](https://leetcode.com/problems/sort-an-array/description/)***
 
+### 12. [Recursion_on_Subsquence](./recursion/lec12_subsequence.cpp) : - ***[LeetCode](https://leetcode.com/problems/subsets/description/)***  ; [subset_string.cpp](./recursion/lec12_subset_string.cpp) ; [generateParenthesis](./recursion/lec12_generateParenthesis.cpp) :-  ***[LeetCode](https://leetcode.com/problems/generate-parentheses/description/)*** ; [sumsubsequence](./recursion/lec12_sumsubsequence.cpp)
+
 ## YouTube Channel
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
