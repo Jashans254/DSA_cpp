@@ -8,10 +8,11 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 2. [Sorting Algorithms](#sorting-algorithms)
 3. [Binary Search](#binary-search)
 4. [Matrix Problems](#matrix-problems)
-5. [STL](#STL)
-6. [Pointers](#pointers)
-7. [Recursion](#recursion)
-
+5. [Strings](#strings)
+6. [STL](#STL)
+7. [Pointers](#pointers)
+8. [Recursion](#recursion)
+9. [OOPS](#object-oriented-programming)
 ## Basic DSA /Math Problems 
 $1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ;$13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
 )***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
@@ -97,6 +98,9 @@ Given a Matrix m * n  , we have to find the row index with maximum sum
 ### 5. [Matrix-Problem5](./Matrix/ReverseEachRow.cpp) 
 Reverse each row of matrix 
 
+## Strings
+1. [BasicOperations](./String/lec1_basicOpns.cpp) 
+2. [DefangIpAdd](./String/lec2_defangingIpaddress.cpp) :- ***[LeetCode](https://leetcode.com/problems/defanging-an-ip-address/description/)*** ; [rotateby2](./String/lec2_rotateBy2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** ; [Pangram](./String/lec2_Pangram.cpp) :- ***[leetcode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)*** ; [sort](./String/lec2_sortAstring.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/sort-a-string2943/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
 ## STL 
 This section focuses on standard template library
 ### 1. [Pair](./STL/pair.cpp)  2. [List](./STL/list.cpp) 3. [Set](./STL/set.cpp)  4. [Multiset](./STL/multiset.cpp)  5. [Map](./STL/map.cpp) 6. [Unordered Set](./STL/unorderdset.cpp) 
@@ -127,8 +131,26 @@ All about function calling itslef repeatedly untill base condition.
 ### 9. [lec9_TC_SC](./recursion/lec9_TC_SC.cpp)
 ### 10. [lec10_mergesort](./recursion/lec10_mergesort.cpp) :- ***[LeetCode](https://leetcode.com/problems/sort-an-array/description/)***
 
-### 12. [Recursion_on_Subsquence](./recursion/lec12_subsequence.cpp) : - ***[LeetCode](https://leetcode.com/problems/subsets/description/)***  ; [subset_string.cpp](./recursion/lec12_subset_string.cpp) ; [generateParenthesis](./recursion/lec12_generateParenthesis.cpp) :-  ***[LeetCode](https://leetcode.com/problems/generate-parentheses/description/)*** ; [sumsubsequence](./recursion/lec12_sumsubsequence.cpp)
+### 12. [Recursion_on_Subsquence](./recursion/lec12_subsequence.cpp) : - ***[LeetCode](https://leetcode.com/problems/subsets/description/)***  ; [subset_string.cpp](./recursion/lec12_subset_string.cpp) ; [generateParenthesis](./recursion/lec12_generateParenthesis.cpp) :-  ***[LeetCode](https://leetcode.com/problems/generate-parentheses/description/)*** ; [sumsubsequence](./recursion/lec12_sumsubsequence.cpp) , [alternative](./recursion/lec13_sumsubset.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/subset-sums2234/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
 
+### 13. [printalong](./recursion/lec13_printalong.cpp) ; [TargetSum](./recursion/lec13_targetsum.cpp) 
+
+### 14. [PerfectSum](./recursion/lec14_perfectsum.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; [repeattargetsum](./recursion/lec14_repeattargetsum.cpp) ; [hw](./recursion/lec14_hw.cpp)
+
+### 15. [Permutation](./recursion/lec15_permutationArray.cpp) :- ***[leetcode](https://leetcode.com/problems/permutations/submissions/1274158969/)*** ; [PermutationString](./recursion/lec15_permStrings.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+
+### 16. [PermII](./recursion/lec16_permutation2.cpp) :- ***[Leetcode](https://leetcode.com/problems/permutations-ii/description/)*** ; [waysToN](./recursion/lec16_waystoN.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/ways-to-sum-to-n5759/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** ; [hw](./recursion/lec16_hw.cpp)
+
+### 17. [Tower_Of_Hanoi](./recursion/lec17_toh.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+
+
+## Object Oriented Programming
+All about objects and classes 
+
+1. [lec1](./OOPS/lec1.cpp) object vs function approach ; class & obj ; padding  ; static vs dynamic allocation
+2. [lec2](./OOPS/lec2.cpp) constructor & destructor
+3. [lec3](./OOPS/lec3.cpp) static data member 
+4. [lec4](./OOPS/lec4.cpp) inheritence ,access modifier
 ## YouTube Channel
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 

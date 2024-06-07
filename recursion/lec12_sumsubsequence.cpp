@@ -1,3 +1,5 @@
+https://www.geeksforgeeks.org/problems/subset-sums2234/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+
 // localpc soln
 #include<bits/stdc++.h>
 using namespace std;
