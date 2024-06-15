@@ -150,8 +150,13 @@ All about objects and classes
 1. [lec1](./OOPS/lec1.cpp) object vs function approach ; class & obj ; padding  ; static vs dynamic allocation
 2. [lec2](./OOPS/lec2.cpp) constructor & destructor
 3. [lec3](./OOPS/lec3.cpp) static data member 
-4. [lec4](./OOPS/lec4.cpp) inheritence ,access modifier
-## YouTube Channel
+4. [lec4](./OOPS/lec4.cpp) inheritence ,access modifier 
+5. [lec5](./OOPS/lec5.cpp) types of inheritence
+6. lec6:- Polymorphism ; [function Overloading](./OOPS/lec6.cpp); [Opertor Overloading](./OOPS/lec6_1.cpp) ; [Virtual function](./OOPS/lec6_2.cpp)
+7. lec7:- Exception Handling ; [Basic](./OOPS/lec7.cpp) ;  [DIvBy0](./OOPS/lec7_1.cpp) ; [StdException](./OOPS/lec7_2.cpp)
+8. [lec8](./OOPS/lec8_filehandling.cpp) File handling in cpp
+
+## YouTube Channel 
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
 ## Contributing
