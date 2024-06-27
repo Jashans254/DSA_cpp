@@ -80,6 +80,14 @@ This section includes various sorting algorithms.
   - [SearchRotatedSortedArrayII](./binarySearch/SearchRotatedSortedArray.cpp) :- ***[Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)***
 
 - Binary Search Interview Problem
+  - [AllocateMinPages](./binarySearch/AllocateMinPages.cpp) :- ***[GfG](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [PainterPartitionProblem](./binarySearch/PainterPartitionProblem.cpp) :- ***[GfG](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [CapacityToShipPackagesWithinD_days](./binarySearch/CapacityToShipPackagesWithinD_days.cpp) :- ***[Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)***
+  - [KokoEatingBananas](./binarySearch/KokoEatingBananas.cpp) :- ***[Leetcode](https://leetcode.com/problems/koko-eating-bananas/description/)***
+  - [SplitArrayLargestSum](./binarySearch/SplitArrayLargestSum.cpp) :- ***[GfG](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [MagneticForceBetweenTwoBalls](./binarySearch/MagneticForceBetweenTwoBalls.cpp) :- ***[Leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)***
+  - [AggressiveCow](./binarySearch/AggressiveCow.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/aggressive-cows/0)***
+
 
 <!-- Add more binary search problems as needed -->
 
