@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab

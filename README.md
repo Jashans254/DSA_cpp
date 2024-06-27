@@ -56,61 +56,84 @@ This section includes various sorting algorithms.
 
 ## Binary Search
 
-This section focuses on problems related to binary search.
+- Basic
 
-1. [P1](./binarySearch/p1_basicBinarySearch.cpp) 
-Basic Binary Search operation on Array 
+  - [BasicBinarySearch](./binarySearch/p1_basicBinarySearch.cpp) :- ***[Leetcode](https://leetcode.com/problems/binary-search/description/)***
+  
+  - [BinarySearchDecOrder](./binarySearch/BinarySearchDecOrder.cpp)
+- Different Problems
+  -  [SearchInsertPosition](.binarySearch/p3_SearchInsertPosition.cpp):- ***[Leetcode](https://leetcode.com/problems/search-insert-position/)***
+  -  [FirstLastOccurance](./binarySearch/p2_FirstLastOccurance.cpp) :- ***[Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)***
+  - [sqrt](./binarySearch/p4_sqrt.cpp) :-***[Leetcode](https://leetcode.com/problems/sqrtx/solutions/25047/A-Binary-Search-Solution/comments/181771/)***
+  - [NumberOfOccurances](./binarySearch/p5_NumberOfOccurances.cppp) :- ***[GfG link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+   - [cubeRoot](.binarySearch/p6_cubeRoot.cpp):- ***[GfG](https://www.geeksforgeeks.org/problems/cube-root-of-a-number0915/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+   - [CountOfZeroes](./binarySearch/p7_CountOfZeroes.cpp):-***[GfG](https://www.geeksforgeeks.org/problems/count-the-zeros2550/1)***
+- Different Problems II
+  - [KthMissingNumber](./binarySearch/KthMissingNumber.cpp) :- ***[Leetcode](https://leetcode.com/problems/kth-missing-positive-number/description/)***
+  - [PeakIndexMountain](./binarySearch/p8_PeakIndexMountain.cpp):- ***[Leetcode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)***
+  - [FindMinRotatedArray](./binarySearch/p9_FindMinRotatedArray.cpp):-
+***[Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)***
+  - [SearchRotatedSortedArray](./binarySearch/SearchRotatedSortedArray.cpp) :- ***[Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)***
+  - [FindPeakElement](./binarySearch/FindPeakElement.cpp) :- ***[leetcode](https://leetcode.com/problems/find-peak-element/description/)***
+  - [SpecialArray_X_Ele>=X](./binarySearch/SpecialArray.cpp):- ***[Leetcode](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)***
+  - [ValidPerfectSquare](./binarySearch/ValidPerfectSquare.cpp):- ***[Leetcode](https://leetcode.com/problems/valid-perfect-square/description/)***
+  - [SearchRotatedSortedArrayII](./binarySearch/SearchRotatedSortedArray.cpp) :- ***[Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)***
 
-2. [P2](./binarySearch/p2_FirstLastOccurance.cpp) 
-program to find first and last occurance of a target element using BS [Leetcode link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- Binary Search Interview Problem
 
-3. [P3](.binarySearch/p3_SearchInsertPosition.cpp)
-Given a sorted array of distinct integers and a target value, return the index if the target is found. 
-[Leetcode link](https://leetcode.com/problems/search-insert-position/)
-
-4. [P4](./binarySearch/p4_sqrt.cpp)
-Given a non-negative integer x, return the square root of x rounded down to the nearest integer.The returned integer should be non-negative as well. Donot use inbuilt function[Leetcode link](https://leetcode.com/problems/sqrtx/solutions/25047/A-Binary-Search-Solution/comments/181771/)
-
-5. [P5](./binarySearch/p5_NumberOfOccurances.cppp)
-Number of occurances of a number in sorted array [GfG link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
-6. [P6](.binarySearch/p6_cubeRoot.cpp)
-Find cube root a number
-[GfG Link](https://www.geeksforgeeks.org/problems/cube-root-of-a-number0915/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
-
-7. [P7](./binarySearch/p7_CountOfZeroes.cpp)
-Count number of zeroes in a sorted array of 1 & 0s 
-[GfG Link](https://www.geeksforgeeks.org/problems/count-the-zeros2550/1)
-
-8. [P8](./binarySearch/p8_PeakIndexMountain.cpp)
-Peak index in Mountain array[Leetcode Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-
-9. [P9](./binarySearch/p9_FindMinRotatedArray.cpp)
-Find Min in Rotated Array[Leetcode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 <!-- Add more binary search problems as needed -->
 
 ## Matrix Problems
 
 This section focuses on problems related to 2-D array.
-
-1. [P1](./Matrix/basic_opns.cpp) 
+- Basics
+  - [P1](./Matrix/basic_opns.cpp) 
 print  matrix col wise , row wise  , find element by linear search 
-
-2. [P2](./Matrix/Add2Matrix.cpp) 
-We r are given two matrices A & B with same size ,
-we have to find their sum A + B = C
-
-3. [P3](./Matrix/printSumDiaEle.cpp) Printing sum of diagonal elements 
-
-4. [P4](./Matrix/RowIdxMaxSum.cpp) 
+   - [Add2Matrix](./Matrix/Add2Matrix.cpp) ; [Subtract2Matrix](./Matrix/subtract2Matrix.cpp)
+  - [P3](./Matrix/printSumDiaEle.cpp) Printing sum of diagonal elements ; [PrintSumEachRow](./Matrix/printSumEachRow.cpp)
+  -  [P4](./Matrix/RowIdxMaxSum.cpp) 
 Given a Matrix m * n  , we have to find the row index with maximum sum
-
-5. [P5](./Matrix/ReverseEachRow.cpp) 
+  - [P5](./Matrix/ReverseEachRow.cpp) 
 Reverse each row of matrix 
+  - [Smallest Ele](./Matrix/smallestele.cpp)  , [LargestEle](./Matrix/LargestEle.cpp)
+
+- 2D Array Interview Problems
+  - [Transpose](./Matrix/lec2_Transpose.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** 
+  - [SpiralMatrix](./Matrix/lec2_SpiralMatrix.cpp) :- ***[Leetcode](./Matrix/lec2_SpiralMatrix.cpp)***
+  - [WaveFormI](./Matrix/lec2_WaveFormI.cpp)
+  - [RevCol](./Matrix/lec2_revcol.cpp)
+  - [SpiralMatrixII](./Matrix/lec2_SpiralMatrixII.cpp) :- ***[LeetCode](https://leetcode.com/problems/spiral-matrix-ii/description/)***
+  - [PrintDia](./Matrix/lec2_PrintDia.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/print-diagonally4331/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [PrintDiaII](./Matrix/lec2_prindiaII.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [SnakePattern](./Matrix/lec2_SnakePattern.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+
+- Rotate Matrix
+  - [RotateImage](./Matrix/lec3_rotateImage.cpp) :-***[Leetcode](https://leetcode.com/problems/rotate-image/)***
+  - [RotateBy180](./Matrix/lec3_RotateBy180.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [RotateBy90AntiClock](./Matrix/lec3_rotateBy90AntiClock.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [RotateMatrixktimes](./Matrix/lec3_RotateMatrixktimes.cpp)
+  - [LeftRotateMatrixktimes](./Matrix/lec3_leftRotateMatrixktimes.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/left-rotate-matrix-k-times2351/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+- Binary Search in Matrix
+  - [Search2DMatrix](./Matrix/lec4_Search2DMatrix.cpp) :- ***[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)*** ; Also solve in log(n)+log(m) 
+  -[SearchRowColsortedMatrix](./Matrix/lec4_SearchRowColsortedMatrix.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [Countzerossortedmatrix](./Matrix/lec4_Countzerossortedmatrix.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  -[RowMax1s](./Matrix/lec4_RowMax1s.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [BinarySearchDecOrder](./Matrix/lec4_BinarySearchDecOrder.cpp)
+- Important Problems
+  - [FindMissing&RepeatingEle](./Matrix/lec5_FindMissing&RepeatingEle.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** 
+  - [CountFreqEle](./Matrix/lec5_CountFreqEle.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [MajorityEle](./Matrix/lec5_MajorityEle.cpp) :- ***[leetcode](https://leetcode.com/problems/majority-element/description/)***
+  - [Smallestmissingpositiveinteger](./Matrix/lec5_Smallestmissingpositiveinteger.cpp) :- ***[leetcode](https://leetcode.com/problems/majority-element/description/)*** (Use Modulous)
 
 ## Strings
 1. [BasicOperations](./String/lec1_basicOpns.cpp) 
 2. [DefangIpAdd](./String/lec2_defangingIpaddress.cpp) :- ***[LeetCode](https://leetcode.com/problems/defanging-an-ip-address/description/)*** ; [rotateby2](./String/lec2_rotateBy2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** ; [Pangram](./String/lec2_Pangram.cpp) :- ***[leetcode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)*** ; [sort](./String/lec2_sortAstring.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/sort-a-string2943/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
 3. [LongestPalandrone](./String/lec3_LongestPalandroone.cpp) :- ***[leetcode](https://leetcode.com/problems/longest-palindrome/description/)*** ; [sortSentence](./String/lec3_sortSentence.cpp) :- ***[leetcode](https://leetcode.com/problems/sorting-the-sentence/description/)***
+4. [sortVowels](./String/lec4_sortVowels.cpp) :- ***[leetcode](https://leetcode.com/problems/sort-vowels-in-a-string/submissions/1297978511/)*** ;  [AddString](./String/lec4_AddString.cpp) :- ***[leetcode](https://leetcode.com/problems/add-strings/)*** ;  [CaseSort](./String/lec4_CaseSort.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1?page=2&difficulty)***
+5. [FactOfLargeNo](./String/FactOfLargeNo.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)*** ; [RomanToInt](./String/RomanToInteger.cpp) :- ***[leetcode](https://leetcode.com/problems/roman-to-integer/submissions/1211846513/)*** ; [IntToRoman](./String/IntegerToRoman.cpp) :- [RomanToInt](./String/RomanToInteger.cpp) :- ***[Leetcode](https://leetcode.com/problems/roman-to-integer/submissions/1211846513/)***
+6. Sliding Window :-  [LongestSubstrWithoutRepeatChar](./String/lec6_LongestSubstrWithoutRepChar.cpp) :- ***[Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)*** ; [SmallestDistinctWindow](./String/lec6_SmallestDistinctWindow.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1?page=1&difficulty)*** ; [Smallest_window_0_1_2](./String/lec6_Smallest_window_0_1_2.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)*** ; [Longest_K_UniquecharSubstring](./String/lec6_Longest_K_UniquecharSubstring.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?page=1&category=Strings&difficulty=Medium&sortBy=submissions)***
+7. KMP Algorithm :- [LargestPrefixSuffix](./String/lec7_LargestPrefixSuffix.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)*** ; [IndexFirstOccurranceString](./String/lec7_LargestPrefixSuffix.cpp) :- ***[Leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)*** ; [Search_Pattern](./String/lec8_Search_Pattern.cpp) :-***[gfg](https://www.geeksforgeeks.org/problems/search-pattern0205/1)***
+8. String Hard Problems ; [MinCharsMakePallindrone](./String/lec9_MinCharsMakePallindrone.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1?page=1&difficulty%5B%5D=2&category%5B%5D=Strings&sortBy=submissions)*** ; [RepeatedStringMatch](./String/lec9_RepeatedStringMatch.cpp):- ***[Leetcode](https://leetcode.com/problems/repeated-string-match/description/)***  ; [MinAppendPalindrome](./String/lec9_MinAppendPalindrome.cpp) :- ***[IB](https://www.interviewbit.com/problems/minimum-appends-for-palindrome/)*** ; [SHortestPallindrome](./String/lec9_SHortestPallindrome.cpp) :- ***[Leetcode](https://leetcode.com/problems/shortest-palindrome/description/)***
 
 ## STL 
 This section focuses on standard template library
