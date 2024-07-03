@@ -13,6 +13,7 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 7. [Pointers](#pointers)
 8. [Recursion](#recursion)
 9. [OOPS](#object-oriented-programming)
+10. [Linked List](#linked-list)
 ## Basic DSA /Math Problems 
 $1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ;$13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
 )***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
@@ -185,7 +186,7 @@ All about function calling itslef repeatedly untill base condition.
 
 17. [Tower_Of_Hanoi](./recursion/lec17_toh.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
 
-
+  
 ## Object Oriented Programming
 All about objects and classes 
 
@@ -197,6 +198,12 @@ All about objects and classes
 6. lec6:- Polymorphism ; [function Overloading](./OOPS/lec6.cpp); [Opertor Overloading](./OOPS/lec6_1.cpp) ; [Virtual function](./OOPS/lec6_2.cpp)
 7. lec7:- Exception Handling ; [Basic](./OOPS/lec7.cpp) ;  [DIvBy0](./OOPS/lec7_1.cpp) ; [StdException](./OOPS/lec7_2.cpp)
 8. [lec8](./OOPS/lec8_filehandling.cpp) File handling in cpp
+
+## Linked List
+- Basics :- [Structure](./LinkedList/lec1.cpp)
+  - Insertion at :- [Start](./LinkedList/lec1_2.cpp) ; [End](./LinkedList/lec1_3.cpp) ; [Position](./LinkedList/lec1_6.cpp) ;; Using Recursion :-  [Start](./LinkedList/lec1_4.cpp) ; [End](./LinkedList/lec1_5.cpp)
+  - Deletion at :- [Start](./LinkedList/lec2_1.cpp) ;[End](./LinkedList/lec2_2.cpp) ; [Position](./LinkedList/lec2_3.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ;; using recursion :- [Position](./LinkedList/lec2_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&)***
+  - Deletion without Head pointer :- [code](./LinkedList/lec2_5.cpp) :-  ***[gfg](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
 
 ## YouTube Channel 
 Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
