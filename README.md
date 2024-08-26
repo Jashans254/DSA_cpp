@@ -14,6 +14,7 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 8. [Recursion](#recursion)
 9. [OOPS](#object-oriented-programming)
 10. [Linked List](#linked-list)
+11. [Stack](#stack)
 ## Basic DSA /Math Problems 
 $1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ; $13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
 )***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
@@ -212,12 +213,81 @@ All about objects and classes
   - [RotateLinkedList](./LinkedList/lec3_8.cpp):- ***[leetcode](https://leetcode.com/problems/rotate-list/description/)*** 
   - [Palindrome](./LinkedList/lec3_9.cpp) :- ***[Leetcode](https://leetcode.com/problems/palindrome-linked-list/)***
 - Doubly Linked List 
-  - Insertion : [Start/End](./LinkedList/lec4_1.cpp)
+  - Insertion : [Start/End](./LinkedList/lec4_1.cpp) ; [AnyPosInsert](./LinkedList/lec4_4.cpp)
   - Convert Array to DLL using Tail : [Code](./LinkedList/lec4_2.cpp)
   - Insertion using recursion : [Code](./LinkedList/lec4_3.cpp)
-  - [AnyPosInsert](./LinkedList/lec4_4.cpp)
+  - Deletion : [Start/End](./LinkedList/lec4_5.cpp)  ; [AnyPosition](./LinkedList/lec4_6.cpp)
+  - [Reverse](./LinkedList/lec4_7.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+
+- More Problem statements
+  - Remove duplicate elements from sorted LinkedList : [Approach1](./LinkedList/lec5_1.cpp) ; [Approach2](./LinkedList/lec5_2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)***
+  - Remove loop from Linked List:
+  [Approach1](./LinkedList/lec5_3.cpp) ; [Approach2](./LinkedList/lec5_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - Intersection Point in Y Shaped Linked List:
+  [Approach1](./LinkedList/lec5_5.cpp) ; [Approach2](./LinkedList/lec5_6.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)***
+  - Add Number Linked Lists : 
+  [Approach](./LinkedList/lec5_7.cpp)  :- ***[gfg](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - Reverse a Linked List in groups of given size:
+  [Approach](./LinkedList/lec5_8.cpp)  :- ***[gfg](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - Reverse a sublist of a linked list: 
+  [Approach](./LinkedList/lec5_9.cpp)  :- ***[gfg](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - Multiply two linked lists:
+  [Approach](./LinkedList/lec5_10.cpp)  :- ***[gfg](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - Flattening a Linked List: 
+  [Approach](./LinkedList/lec5_11.cpp)  :- ***[gfg](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+
+## Stack
+
+- Problems
+  - [Reverse an Array](./Stack/lec6_1.cpp):- ***[leetcode](https://leetcode.com/problems/reverse-string/description/)***
+  - [Insert an element at bottom of stack](./Stack/lec6_2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=2&category=Stack&difficulty=Easy&sortBy=submissions)***
+  - [ Make an array Beautiful](./Stack/lec6_3.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1)***
+  - [String Manipulation](./Stack/lec6_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/string-manipulation3706/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
+  
+  - [paranthesis valid or not](./Stack/lec6_5.cpp) 
+  - [Min add to make parenthesis valid](./Stack/lec6_6.cpp):- ***[leetcode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?source=submission-ac)***
+  - [ Valid Parentheses](./Stack/lec6_7.cpp) :- ***[leetcode](https://leetcode.com/problems/valid-parentheses/description/)***
+  - [ Backspace String Compare](./Stack/lec6_8.cpp) :- ***[leetcode](https://leetcode.com/problems/backspace-string-compare/description/)***
+  - [Print Bracket Number](./Stack/lec6_9.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/print-bracket-number4058/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
+  - [Get min at top](./Stack/lec6_10.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/get-min-at-pop/1?page=1&category=Stack&difficulty=Easy&sortBy=submissions)***
+  - [Special stack](./Stack/lec6_11.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/special-stack/1?page=1&category=Stack&difficulty=Easy&sortBy=submissions)***
+  - [sort a stack](./Stack/lec6_12.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/sort-a-stack/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
+
+- More Problems
+  - Next Greater Element [Approach1](./Stack/lec6_13.cpp); [Approach2](./Stack/lec6_14.cpp); [Approach3](./Stack/lec6_15.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/next-greater-element/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Next Smaller Element](./Stack/lec6_16.cpp) :- ***[Cn](https://www.naukri.com/code360/problems/next-smaller-element_1112581?leftPanelTabValue=PROBLEM)***
+  - [stock span Problem](./Stack/lec6_17.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Smallest number on left](./Stack/lec6_18.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Next Greater Element in Circular Array](./Stack/lec6_19.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/next-greater-element/0)***
+  - [Asteroid Collision](./Stack/lec6_20.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/asteroid-collision/1?page=1&difficulty%5B%5D=1&category%5B%5D=Stack&sortBy=submissions)***
+  - [Baseball Game](./Stack/lec6_21.cpp) :- ***[leetcode](https://leetcode.com/problems/baseball-game/description/)***
+  - [ Remove k digits](./Stack/lec6_22.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/remove-k-digits/1?page=2&difficulty%5B%5D=1&category%5B%5D=Stack&sortBy=submissions)***
+  - [ Next Greater Element](./Stack/lec6_23.cpp) :- ***[leetcode](https://leetcode.com/problems/next-greater-element-i/description/)***
+- Stack Variation
+  - [ Largest Rectangle in Histogram](./Stack/lec6_24.cpp) :- ***[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)***
+  - [Maximal Rectangle](./Stack/lec6_25.cpp) :- ***[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)***
+  - [Celebrity Problem](./Stack/lec6_26.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [Rain trapping water ](./Stack/lec6_27.cpp) :- ***[leetcode](https://leetcode.com/problems/trapping-rain-water/description/)***
+  - [MAXSPPROD](./Stack/lec6_28.cpp) :- ***[IB](https://www.interviewbit.com/problems/maxspprod/)***
+- Stack Hard
+  - [Get Minimum Element from Stack](./Stack/lec6_29.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [Maximum of minimum for every window size](./Stack/lec6_30.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1?page=1&difficulty%5B%5D=2&category%5B%5D=Stack&sortBy=submissions)***
+  - [IPL Final](./Stack/lec6_31.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/ipl-2021-final--141634/1)***
+  - [N Stacks In An Array](./Stack/lec6_32.cpp) :- ***[Cn](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271?leftPanelTabValue=PROBLEM)***
+  - [Implement two stacks in an array](./Stack/lec6_33.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Minimum of Maximum for every window size.](./Stack/lec6_34.cpp)
+
+
+      Given an integer array. The task is to find the minimum of the maximum of every window size in the array. Note:Window size varies from 1 to the size of the Array.
+      Ex: N = 7 arr[] = {10,20,30,50,10,70,30} Output: {10,20,30,50,50,70,70}
+
+      Explanation: 
+      Maximum of windows of size 1 are {10}, {20}, {30}, {50},{10}, {70} and {30}. Minimum of these maximum is 10.
+      Maximum of windows of size 2 are {20}, {30}, {50}, {50}, {70}, and {70}. Minimum of these maximum is 20.
+
+
 ## YouTube Channel 
-Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
+ Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
 ## Contributing
 
