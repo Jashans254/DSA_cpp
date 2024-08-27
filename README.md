@@ -15,6 +15,8 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 9. [OOPS](#object-oriented-programming)
 10. [Linked List](#linked-list)
 11. [Stack](#stack)
+12. [Queue](#queue)
+13. [Binary Tree](#binary-tree)
 ## Basic DSA /Math Problems 
 $1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ; $13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
 )***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
@@ -278,14 +280,36 @@ All about objects and classes
   - [ Minimum of Maximum for every window size.](./Stack/lec6_34.cpp)
 
 
-      Given an integer array. The task is to find the minimum of the maximum of every window size in the array. Note:Window size varies from 1 to the size of the Array.
-      Ex: N = 7 arr[] = {10,20,30,50,10,70,30} Output: {10,20,30,50,50,70,70}
+      
 
-      Explanation: 
-      Maximum of windows of size 1 are {10}, {20}, {30}, {50},{10}, {70} and {30}. Minimum of these maximum is 10.
-      Maximum of windows of size 2 are {20}, {30}, {50}, {50}, {70}, and {70}. Minimum of these maximum is 20.
+## Binary Tree
+  - Basics
+    - [Implementaion](./BinaryTree/lec7_1.cpp) ; [Method 2](./BinaryTree/lec7_2.cpp)
+  - Tree Traversal
+    - [Inorder Traversal](./BinaryTree/lec7_3.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Preorder Traversal](./BinaryTree/lec7_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/preorder-traversal/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Postorder Traversal](./BinaryTree/lec7_5.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Level Order Traversal](./BinaryTree/lec7_6.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/level-order-traversal/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+  - Basic  Questions
+    - [ Size of Binary Tree](./BinaryTree/lec7_7.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Sum of Binary Tree](./BinaryTree/lec7_8.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Count Leaves in Binary Tree](./BinaryTree/lec7_9.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Count Non-Leaf Nodes in Tree](./BinaryTree/lec7_10.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Height of Binary Tree](./BinaryTree/lec7_11.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Largest value in each level](./BinaryTree/lec7_12.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1?page=4&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+  
+  - More Questions
+    - [  Determine if Two Trees are Identical](./BinaryTree/lec7_13.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Mirror Tree](./BinaryTree/lec7_14.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/mirror-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [ Check for Balanced Tree](./BinaryTree/lec7_15.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Level Order Traversal Spiral Form](./BinaryTree/lec7_16.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Check if Two nodes are cousin](./BinaryTree/lec7_17.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1?page=2&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
 
-
+  - View Questions
+    - [Left View of Binary Tree](./BinaryTree/lec7_18.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Right View of Binary Tree](./BinaryTree/lec7_19.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Top View of Binary Tree](./BinaryTree/lec7_20.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions)***
+    - [Bottom View of Binary Tree](./BinaryTree/lec7_21.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions)***
 ## YouTube Channel 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
