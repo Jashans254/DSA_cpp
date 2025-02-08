@@ -17,6 +17,7 @@ This repository contains various Data Structures and Algorithms (DSA) topics imp
 11. [Stack](#stack)
 12. [Queue](#queue)
 13. [Binary Tree](#binary-tree)
+14. [Graph](#graph)
 ## Basic DSA /Math Problems 
 $1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ; $13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
 )***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
@@ -306,11 +307,26 @@ All about objects and classes
     - [Check if Two nodes are cousin](./BinaryTree/lec7_17.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1?page=2&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
 
   - View Questions
-    - [Left View of Binary Tree](./BinaryTree/lec7_18.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
+    - [Left View of Binary Tree](./BinaryTree/lec7_18.cpp) ; [Approach2](./BinaryTree/lec7_18_2.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
     - [Right View of Binary Tree](./BinaryTree/lec7_19.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions)***
     - [Top View of Binary Tree](./BinaryTree/lec7_20.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions)***
     - [Bottom View of Binary Tree](./BinaryTree/lec7_21.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions)***
+
+## Graph 
+  - Basics 
+    - [Adjacency Matrix](./Graph/lec8_1.cpp)
+    - [Adjacency List](./Graph/lec8_2.cpp)
+  - Graph Traversal
+     - [BFS](./Graph/lec8_3.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?page=1&difficulty%5B%5D=0&category%5B%5D=Graph&sortBy=submissions)***
+     - [DFS: recursive](./Graph/lec8_4.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?page=1&difficulty%5B%5D=0&category%5B%5D=Graph&sortBy=submissions)***
+     - [DFS: iterative](./Graph/lec8_5.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?page=1&difficulty%5B%5D=0&category%5B%5D=Graph&sortBy=submissions)***
+  
+  - Cycle Detection in undirected graph
+    - [DFS](./Graph/lec8_6.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)***
+    - [BFS](./Graph/lec8_7.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)***
+
 ## YouTube Channel 
+
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
 
 ## Contributing
