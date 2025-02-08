@@ -243,43 +243,43 @@ All about objects and classes
 ## Stack
 
 - Problems
-  - [Reverse an Array ](./Stack/lec6_1.cpp):- ***[leetcode](https://leetcode.com/problems/reverse-string/description/)***
-  - [Insert an element at bottom of stack](./Stack/lec6_2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=2&category=Stack&difficulty=Easy&sortBy=submissions)***
-  - [ Make an array Beautiful](./Stack/lec6_3.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1)***
-  - [String Manipulation](./Stack/lec6_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/string-manipulation3706/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
+  - [Reverse an Array ](./stack/lec6_1.cpp):- ***[leetcode](https://leetcode.com/problems/reverse-string/description/)***
+  - [Insert an element at bottom of stack](./stack/lec6_2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=2&category=Stack&difficulty=Easy&sortBy=submissions)***
+  - [ Make an array Beautiful](./stack/lec6_3.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1)***
+  - [String Manipulation](./stack/lec6_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/string-manipulation3706/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
   
-  - [paranthesis valid or not](./Stack/lec6_5.cpp) 
-  - [Min add to make parenthesis valid](./Stack/lec6_6.cpp):- ***[leetcode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?source=submission-ac)***
-  - [ Valid Parentheses](./Stack/lec6_7.cpp) :- ***[leetcode](https://leetcode.com/problems/valid-parentheses/description/)***
-  - [ Backspace String Compare](./Stack/lec6_8.cpp) :- ***[leetcode](https://leetcode.com/problems/backspace-string-compare/description/)***
-  - [Print Bracket Number](./Stack/lec6_9.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/print-bracket-number4058/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
-  - [Get min at top](./Stack/lec6_10.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/get-min-at-pop/1?page=1&category=Stack&difficulty=Easy&sortBy=submissions)***
-  - [Special stack](./Stack/lec6_11.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/special-stack/1?page=1&category=Stack&difficulty=Easy&sortBy=submissions)***
-  - [sort a stack](./Stack/lec6_12.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/sort-a-stack/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
+  - [paranthesis valid or not](./stack/lec6_5.cpp) 
+  - [Min add to make parenthesis valid](./stack/lec6_6.cpp):- ***[leetcode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?source=submission-ac)***
+  - [ Valid Parentheses](./stack/lec6_7.cpp) :- ***[leetcode](https://leetcode.com/problems/valid-parentheses/description/)***
+  - [ Backspace String Compare](./stack/lec6_8.cpp) :- ***[leetcode](https://leetcode.com/problems/backspace-string-compare/description/)***
+  - [Print Bracket Number](./stack/lec6_9.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/print-bracket-number4058/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
+  - [Get min at top](./stack/lec6_10.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/get-min-at-pop/1?page=1&category=Stack&difficulty=Easy&sortBy=submissions)***
+  - [Special stack](./stack/lec6_11.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/special-stack/1?page=1&category=Stack&difficulty=Easy&sortBy=submissions)***
+  - [sort a stack](./stack/lec6_12.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/sort-a-stack/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
 
 - More Problems
-  - Next Greater Element [Approach1](./Stack/lec6_13.cpp); [Approach2](./Stack/lec6_14.cpp); [Approach3](./Stack/lec6_15.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/next-greater-element/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
-  - [ Next Smaller Element](./Stack/lec6_16.cpp) :- ***[Cn](https://www.naukri.com/code360/problems/next-smaller-element_1112581?leftPanelTabValue=PROBLEM)***
-  - [stock span Problem](./Stack/lec6_17.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
-  - [ Smallest number on left](./Stack/lec6_18.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
-  - [ Next Greater Element in Circular Array](./Stack/lec6_19.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/next-greater-element/0)***
-  - [Asteroid Collision](./Stack/lec6_20.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/asteroid-collision/1?page=1&difficulty%5B%5D=1&category%5B%5D=Stack&sortBy=submissions)***
-  - [Baseball Game](./Stack/lec6_21.cpp) :- ***[leetcode](https://leetcode.com/problems/baseball-game/description/)***
-  - [ Remove k digits](./Stack/lec6_22.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/remove-k-digits/1?page=2&difficulty%5B%5D=1&category%5B%5D=Stack&sortBy=submissions)***
-  - [ Next Greater Element](./Stack/lec6_23.cpp) :- ***[leetcode](https://leetcode.com/problems/next-greater-element-i/description/)***
+  - Next Greater Element [Approach1](./stack/lec6_13.cpp); [Approach2](./Stack/lec6_14.cpp); [Approach3](./stack/lec6_15.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/next-greater-element/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Next Smaller Element](./stack/lec6_16.cpp) :- ***[Cn](https://www.naukri.com/code360/problems/next-smaller-element_1112581?leftPanelTabValue=PROBLEM)***
+  - [stock span Problem](./stack/lec6_17.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Smallest number on left](./stack/lec6_18.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Next Greater Element in Circular Array](./stack/lec6_19.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/next-greater-element/0)***
+  - [Asteroid Collision](./stack/lec6_20.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/asteroid-collision/1?page=1&difficulty%5B%5D=1&category%5B%5D=Stack&sortBy=submissions)***
+  - [Baseball Game](./stack/lec6_21.cpp) :- ***[leetcode](https://leetcode.com/problems/baseball-game/description/)***
+  - [ Remove k digits](./stack/lec6_22.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/remove-k-digits/1?page=2&difficulty%5B%5D=1&category%5B%5D=Stack&sortBy=submissions)***
+  - [ Next Greater Element](./stack/lec6_23.cpp) :- ***[leetcode](https://leetcode.com/problems/next-greater-element-i/description/)***
 - Stack Variation
-  - [ Largest Rectangle in Histogram](./Stack/lec6_24.cpp) :- ***[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)***
-  - [Maximal Rectangle](./Stack/lec6_25.cpp) :- ***[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)***
-  - [Celebrity Problem](./Stack/lec6_26.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
-  - [Rain trapping water ](./Stack/lec6_27.cpp) :- ***[leetcode](https://leetcode.com/problems/trapping-rain-water/description/)***
-  - [MAXSPPROD](./Stack/lec6_28.cpp) :- ***[IB](https://www.interviewbit.com/problems/maxspprod/)***
+  - [ Largest Rectangle in Histogram](./stack/lec6_24.cpp) :- ***[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)***
+  - [Maximal Rectangle](./stack/lec6_25.cpp) :- ***[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)***
+  - [Celebrity Problem](./stack/lec6_26.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [Rain trapping water ](./stack/lec6_27.cpp) :- ***[leetcode](https://leetcode.com/problems/trapping-rain-water/description/)***
+  - [MAXSPPROD](./stack/lec6_28.cpp) :- ***[IB](https://www.interviewbit.com/problems/maxspprod/)***
 - Stack Hard
-  - [Get Minimum Element from Stack](./Stack/lec6_29.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
-  - [Maximum of minimum for every window size](./Stack/lec6_30.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1?page=1&difficulty%5B%5D=2&category%5B%5D=Stack&sortBy=submissions)***
-  - [IPL Final](./Stack/lec6_31.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/ipl-2021-final--141634/1)***
-  - [N Stacks In An Array](./Stack/lec6_32.cpp) :- ***[Cn](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271?leftPanelTabValue=PROBLEM)***
-  - [Implement two stacks in an array](./Stack/lec6_33.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
-  - [ Minimum of Maximum for every window size.](./Stack/lec6_34.cpp)
+  - [Get Minimum Element from Stack](./stack/lec6_29.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)***
+  - [Maximum of minimum for every window size](./stack/lec6_30.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1?page=1&difficulty%5B%5D=2&category%5B%5D=Stack&sortBy=submissions)***
+  - [IPL Final](./stack/lec6_31.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/ipl-2021-final--141634/1)***
+  - [N Stacks In An Array](./stack/lec6_32.cpp) :- ***[Cn](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271?leftPanelTabValue=PROBLEM)***
+  - [Implement two stacks in an array](./stack/lec6_33.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
+  - [ Minimum of Maximum for every window size.](./stack/lec6_34.cpp)
 
 
       
