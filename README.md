@@ -243,7 +243,7 @@ All about objects and classes
 ## Stack
 
 - Problems
-  - [Reverse an Array](./Stack/lec6_1.cpp):- ***[leetcode](https://leetcode.com/problems/reverse-string/description/)***
+  - [Reverse an Array ](./Stack/lec6_1.cpp):- ***[leetcode](https://leetcode.com/problems/reverse-string/description/)***
   - [Insert an element at bottom of stack](./Stack/lec6_2.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=2&category=Stack&difficulty=Easy&sortBy=submissions)***
   - [ Make an array Beautiful](./Stack/lec6_3.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1)***
   - [String Manipulation](./Stack/lec6_4.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/string-manipulation3706/1?page=1&difficulty%5B%5D=0&category%5B%5D=Stack&sortBy=submissions)***
