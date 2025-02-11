@@ -1,7 +1,21 @@
-# Data Structures and Algorithms Repository
+# 🚀 Ultimate DSA Repository for Coding Interviews 💻  
+<!-- Tags: DSA, Data Structures, Algorithms, C++, LeetCode, Competitive Programming, Coding Interviews , gfg,  -->
+<!-- Amazon , Microsoft , intership , Google , Only source you need -->
 
-This repository contains various Data Structures and Algorithms (DSA) topics implemented in C++ . It contains topicwise problem link and solution code of various DSA topics .
- 
+This repository contains **Data Structures and Algorithms (DSA) problems** solved in **C++**, sourced from **LeetCode, GeeksforGeeks, and InterviewBit**.  
+Ideal for **competitive programming**, **coding interviews**, and **DSA mastery**.  
+
+It tracks all the code and problem statement from the free DSA course at youtube by **Coder Army** via **Rohit Negi**
+
+✅ 100+ Handpicked Questions  
+✅ Topic-wise Categorization  
+✅ Solutions with Explanations 
+✅ Updated regulary.
+✅ More than one approach to each problems
+
+![alt text](image.png)
+Example for easy navigation : purple arrow pointing to "Size of Binary Tree" which when clicked , opens the solution of the problem.
+Yellow arrow indicates "platform name" , which on clicking ; navigates you to the problem statement tab.
 ## Table of Contents
 0. [Basic DSA /Math](#basic-dsa-/math-problems)
 1. [Basic Array Problems](#basic-array-problems)
