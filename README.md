@@ -5,13 +5,15 @@
 This repository contains **Data Structures and Algorithms (DSA) problems** solved in **C++**, sourced from **LeetCode, GeeksforGeeks, and InterviewBit**.  
 Ideal for **competitive programming**, **coding interviews**, and **DSA mastery**.  
 
-It tracks all the code and problem statement from the free DSA course at youtube by **Coder Army** via **Rohit Negi**
+- It tracks all the code and problem statement from the free DSA course at youtube by **Coder Army** via **Rohit Negi**
+- Advanced topics Like DP are covered from **Take u forward** by **Striver**
 
-✅ 100+ Handpicked Questions  
-✅ Topic-wise Categorization  
-✅ Solutions with Explanations 
-✅ Updated regulary.
-✅ More than one approach to each problems
+### Key Features:
+- ✅ 100+ Handpicked Questions  
+- ✅ Topic-wise Categorization  
+- ✅ Solutions with Explanations 
+- ✅ Updated regulary.
+- ✅ More than one approach to each problems
 
 ![alt text](image.png)
 Example for easy navigation : purple arrow pointing to "Size of Binary Tree" which when clicked , opens the solution of the problem.
@@ -127,7 +129,7 @@ Reverse each row of matrix
 
 - 2D Array Interview Problems
   - [Transpose](./Matrix/lec2_Transpose.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** 
-  - [SpiralMatrix](./Matrix/lec2_SpiralMatrix.cpp) :- ***[Leetcode](./Matrix/lec2_SpiralMatrix.cpp)***
+  - [SpiralMatrix](./Matrix/lec2_SpiralMatrix.cpp) :- ***[Leetcode](https://leetcode.com/problems/spiral-matrix/description/)***
   - [WaveFormI](./Matrix/lec2_WaveFormI.cpp)
   - [RevCol](./Matrix/lec2_revcol.cpp)
   - [SpiralMatrixII](./Matrix/lec2_SpiralMatrixII.cpp) :- ***[LeetCode](https://leetcode.com/problems/spiral-matrix-ii/description/)***
@@ -346,7 +348,25 @@ All about objects and classes
     - [Max Heap](./Heap/lec9_2.cpp)
     - [BuildMaxHeap](./Heap/lec9_3.cpp)
     - [Priority Queue](./Heap/lec9_4.cpp)
-  
+
+
+## Dynamic Programming
+
+### Introduction to DP
+ - fibonacci [solution](./DP/lec10_1.cpp) :- ***[gfg](https://www.geeksforgeeks.org/problems/introduction-to-dp/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-dp)***
+
+### 1-D DP
+- climbing stairs [solution](./DP/lec10_2.cpp) :- ***[leetcode](https://leetcode.com/problems/climbing-stairs/description/)***
+- Frog Jump(DP-3) [RecursiveSoln](./DP/lec10_3.cpp)  ; [DPsolution](./DP/lec10_4.cpp) ; [Tablesolution](./DP/lec10_5.cpp) ; [SpaceOptimisedsolution](./DP/lec10_6.cpp) ; :- ***[Gfg](https://www.geeksforgeeks.org/problems/geek-jump/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=geek-jump)***
+- Frog Jump with k distances(DP-4)  [DPsolution](./DP/lec10_7.cpp) ; [Tabulation](./DP/lec10_8.cpp):- ***[Gfg](https://www.geeksforgeeks.org/problems/minimal-cost/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimal-cost)***
+- Maximum sum of non-adjacent elements (DP 5) [Recursive](./DP/lec10_9.cpp); [DP](./DP/lec10_10.cpp) ; [Tabulation](./DP/lec10_11.cpp) :- ***[LC](https://leetcode.com/problems/house-robber/)***
+- House Robber (DP 6) [Solution](./DP/lec10_12.cpp) :- ***[LC](https://leetcode.com/problems/house-robber-ii/submissions/1566948933/)***
+
+### 2-D DP / Grid
+- Ninja's Training (DP 7) [Recursive](./DP/lec10_13.cpp); [DP](./DP/lec10_14.cpp) ; [Tabulation](./DP/lec10_15.cpp); [SpaceOptimsed](./dp/lec10_16.cpp):- ***[Gfg](https://www.geeksforgeeks.org/problems/geeks-training/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=geeks-training)***
+- Grid Unique Paths : DP on Grids (DP8) [Recursive](./DP/lec10_17.cpp); [DP](./DP/lec10_18.cpp) ; [Tabulation](./DP/lec10_19.cpp); [SpaceOptimsed](./dp/lec10_20.cpp):- ***[LC](https://leetcode.com/problems/unique-paths/)*** : alternative solution : [yt](https://www.youtube.com/watch?v=t_f0nwwdg5o&t=0s)
+- 	Grid Unique Paths 2 (DP 9)  [DP](./DP/lec10_21.cpp) ; [Tabulation](./DP/lec10_22.cpp); [SpaceOptimised](./DP/lec10_23.cpp) :- ***[LC](https://leetcode.com/problems/unique-paths-ii/)*** 
+- 	Minimum path sum in Grid (DP 10) [Recursive](./DP/lec10_24.cpp); [DP](./DP/lec10_25.cpp) ; [Tabulation](./DP/lec10_26.cpp); [SpaceOptimsed](./dp/lec10_27.cpp):- ***[LC](https://leetcode.com/problems/minimum-path-sum/)***
 ## YouTube Channel 
 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
@@ -354,7 +374,6 @@ All about objects and classes
 ## Contributing
 
 Feel free to contribute by adding new problems, improving existing solutions, or suggesting enhancements. Follow the [contribution guidelines](./CONTRIBUTING.md) for more details.
-
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
