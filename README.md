@@ -370,11 +370,31 @@ All about objects and classes
 - 	Minimum path sum in Grid (DP 10) [Recursive](./DP/lec10_24.cpp); [DP](./DP/lec10_25.cpp) ; [Tabulation](./DP/lec10_26.cpp); [SpaceOptimsed](./dp/lec10_27.cpp):- ***[LC](https://leetcode.com/problems/minimum-path-sum/)***
 - Minimum path sum in Triangular Grid (DP 11) [Recursive](./DP/lec10_28.cpp); [DP](./DP/lec10_29.cpp) ; [Tabulation](./DP/lec10_30.cpp); [SpaceOptimsed](./dp/lec10_31.cpp):- ***[LC](https://leetcode.com/problems/triangle/)***
 - Minimum/Maximum Falling Path Sum (DP-12) [Recursive](./DP/lec10_32.cpp); [DP](./DP/lec10_33.cpp) ; [Tabulation](./DP/lec10_34.cpp); [SpaceOptimsed](./dp/lec10_35.cpp):- ***[LC](https://leetcode.com/problems/minimum-falling-path-sum/)***
-- 3-d DP : Ninja and his friends (DP-13) [Recursive](./DP/lec10_36.cpp); [DP](./DP/lec10_37.cpp) ; [Tabulation](./DP/lec10_38.cpp); [SpaceOptimsed](./dp/lec10_39.cpp):- ***[Gfg](https://www.geeksforgeeks.org/problems/ninja-and-his-friends/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=ninja-and-his-friends)***
+- 3-d DP : Ninja and his friends (DP-13) [Recursive](./DP/lec10_36.cpp); [DP](./DP/lec10_37.cpp) ; [Tabulation](./DP/lec10_38.cpp); [SpaceOptimsed](./dp/lec10_39.cpp):- ***[Gfg](https://www.geeksforgeeks.org/problems/chocolates-pickup/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=chocolates-pickup)***
 
 
 ### DP on subsequences
+- Subset sum equal to target (DP- 14) [Recursive](./DP/lec10_40.cpp); [DP](./DP/lec10_41.cpp) ; [Tabulation](./DP/lec10_42.cpp); [SpaceOptimsed](./dp/lec10_43.cpp):- ***[Gfg](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)***
 
+- Partition Equal Subset Sum (DP- 15) [Tabulation](./DP/lec10_44.cpp) :- ***[LC](https://leetcode.com/problems/partition-equal-subset-sum/)***
+
+- Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)
+[Tabulation](./DP/lec10_45.cpp) ; [Alternative](./DP/lec10_46.cpp):- ***[LC](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/)***
+
+- Count Subsets with Sum K (DP - 17) [DP](./DP/lec10_47.cpp) ; [Tabulation](./DP/lec10_48.cpp) ; [spaceOptimised](./DP/lec10_49.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=perfect-sum-problem)***
+- Count Partitions with Given Difference (DP - 18) [Recursion](./DP/lec10_50.cpp) ; [DP](./DP/lec10_51.cpp) ; [Tabulation](./DP/lec10_52.cpp) ; [SpaceOptimised](./DP/lec10_53.cpp) :- ***[LC](https://leetcode.com/problems/partition-equal-subset-sum/)***
+
+- 0/1 Knapsack (DP - 19) [Recursive](./DP/lec10_54.cpp) ; [DP](./DP/lec10_55.cpp) ; [Tabulation](./DP/lec10_56.cpp) ; [SpaceOptimised](./DP/lec10_57.cpp) :- ***[CN](https://www.naukri.com/code360/problems/0-1-knapsack_920542?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTabValue=PROBLEM)***
+- Assign Cookies [Solution](./DP/lec10_58.cpp) :- ***[LC](https://leetcode.com/problems/assign-cookies/description/)***
+- Minimum Coins (DP - 20) [Recursive](./DP/lec10_59.cpp) ; [DP](./DP/lec10_60.cpp) ; [Tabulation](./DP/lec10_61.cpp) ; [SpaceOptimised](./DP/lec10_62.cpp) :- ***[LC](https://leetcode.com/problems/coin-change/)***
+- Target Sum (DP - 21) [Tabulation](./DP/lec10_63.cpp)   :- ***[LC](https://leetcode.com/problems/target-sum/)***
+- Coin Change 2 (DP - 22) [Recursive](./DP/lec10_64.cpp) ; [DP](./DP/lec10_65.cpp) ; [Tabulation](./DP/lec10_66.cpp) ; [SpaceOptimised](./DP/lec10_67.cpp)   :- ***[LC](https://leetcode.com/problems/coin-change-2/)***
+- Unbounded Knapsack (DP - 23) [Recursive](./DP/lec10_68.cpp) ; [DP](./DP/lec10_69.cpp) ; [Tabulation](./DP/lec10_70.cpp) ; [SpaceOptimised](./DP/lec10_71.cpp)   :- ***[Gfg](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=knapsack-with-duplicate-items)***
+- Rod Cutting (DP - 24) [Recursive](./DP/lec10_72.cpp) ; [DP](./DP/lec10_73.cpp) ; [Tabulation](./DP/lec10_74.cpp) ; [SpaceOptimised](./DP/lec10_75.cpp)   :- ***[Gfg](https://www.geeksforgeeks.org/problems/cutted-segments/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=cutted-segments)***
+
+
+### DP on strings
+- Longest Common Subsequence (DP - 25) [Recursive](./DP/lec10_76.cpp) ; [DP](./DP/lec10_77.cpp) ; [Tabulation](./DP/lec10_78.cpp) ; [SpaceOptimised](./DP/lec10_79.cpp)   :- ***[Gfg](https://www.geeksforgeeks.org/problems/longest-common-subsequence-4/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-common-subsequence-4)***
 ## YouTube Channel 
 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
