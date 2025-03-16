@@ -394,7 +394,32 @@ All about objects and classes
 
 
 ### DP on strings
-- Longest Common Subsequence (DP - 25) [Recursive](./DP/lec10_76.cpp) ; [DP](./DP/lec10_77.cpp) ; [Tabulation](./DP/lec10_78.cpp) ; [SpaceOptimised](./DP/lec10_79.cpp)   :- ***[Gfg](https://www.geeksforgeeks.org/problems/longest-common-subsequence-4/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-common-subsequence-4)***
+- Longest Common Subsequence (DP - 25) [WithShiftedIndex](./DP/lec10_76.cpp) ; [DP](./DP/lec10_77.cpp) ; [Tabulation](./DP/lec10_78.cpp) ; [SpaceOptimised](./DP/lec10_79.cpp)   :- ***[LC](https://leetcode.com/problems/longest-common-subsequence/)***
+- Print Longest Common Subsequence | (DP - 26) [Tabulation](./DP/lec10_80.cpp) :- ***[Gfg](https://www.geeksforgeeks.org/problems/print-longest-common-subsequence/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-longest-common-subsequence)***
+- Longest Common Substring | (DP - 27) [Tabulation](./DP/lec10_81.cpp) ; [spaceoptimised](./DP/lec10_82.cpp):- ***[Gfg](https://www.geeksforgeeks.org/problems/longest-common-substring/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-common-substring)***
+- Longest Palindromic Subsequence | (DP-28) [Tabulation](./DP/lec10_83.cpp) :- ***[LC](https://leetcode.com/problems/longest-palindromic-subsequence/)***
+- Minimum insertions to make string palindrome | DP-29 [Tabulation](./DP/lec10_84.cpp) :- ***[LC](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/submissions/1574579741/)***
+- Minimum Insertions/Deletions to Convert String | (DP- 30) [Tabulation](./DP/lec10_85.cpp) :- ***[LC](https://leetcode.com/problems/delete-operation-for-two-strings/)***
+
+### DP on Stocks
+- Best Time to Buy and Sell Stock |(DP-35) [DP](./DP/lec10_86.cpp) :- ***[LC](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)***
+
+### DP on Squrares
+
+- Maximum Rectangle Area with all 1's|(DP-55) 
+  - prereq : [Largest Rectangle in Histogram](./stack/lec6_24.cpp) :- ***[LC](https://leetcode.com/problems/maximal-rectangle/)***
+  - [DP](./DP/lec10_87.cpp) :- ***[LC](https://leetcode.com/problems/maximal-square/)***
+- Count Square Submatrices with All Ones|(DP-56)
+
+
+
+
+
+## SDE Sheet
+### Arrays
+- pascal tree [solution](./sde_sheet/lec_1.cpp) :- ***[LC](https://leetcode.com/problems/pascals-triangle-ii/description/)***
+- pascal tree ii [solution](./sde_sheet/lec_2.cpp) :- ***[LC](https://leetcode.com/problems/pascals-triangle-ii/description/)***
+- 	Set Matrix Zeros [solution](./sde_sheet/lec_3.cpp) :- ***[LC](https://leetcode.com/problems/set-matrix-zeroes/description/)***
 ## YouTube Channel 
 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
