@@ -420,6 +420,19 @@ All about objects and classes
 - pascal tree [solution](./sde_sheet/lec_1.cpp) :- ***[LC](https://leetcode.com/problems/pascals-triangle-ii/description/)***
 - pascal tree ii [solution](./sde_sheet/lec_2.cpp) :- ***[LC](https://leetcode.com/problems/pascals-triangle-ii/description/)***
 - 	Set Matrix Zeros [solution](./sde_sheet/lec_3.cpp) :- ***[LC](https://leetcode.com/problems/set-matrix-zeroes/description/)***
+- next permutaion [solution](./sde_sheet/lec_4.cpp) :- ***[LC](https://leetcode.com/problems/next-permutation/description/)***
+- Kadane's Algorithm [solution](./sde_sheet/lec_7.cpp) :- ***[LC](https://leetcode.com/problems/maximum-subarray/description/)***
+- Sort an array of 0's, 1's and 2's [solution](./sde_sheet/lec_8.cpp) :- ***[LC](https://leetcode.com/problems/sort-colors/description/)***
+### Arrays 2
+- transpose a matrix [solution](./sde_sheet/lec_5.cpp) :- ***[LC](https://leetcode.com/problems/transpose-matrix/description/)***
+- rotate a matrix [solution](./sde_sheet/lec_6.cpp) :- ***[LC](https://leetcode.com/problems/rotate-image/description/)***
+- 	Merge two sorted arrays without extra space [solution](./sde_sheet/lec_9.cpp) :- ***[LC](https://leetcode.com/problems/merge-sorted-array/description/)***
+- Find the duplicate in an array of N+1 integers [solution](./sde_sheet/lec_10.cpp) :- ***[LC](https://leetcode.com/problems/find-the-duplicate-number/description/)***
+
+
+### Array 3
+- Search in a 2 D matrix [solution](./Matrix/lec4_Search2DMatrix.cpp) :- ***[LC](https://leetcode.com/problems/search-a-2d-matrix/description/)***
+- Pow(x, n) [solution](./sde_sheet/lec_11.cpp) :- ***[LC](https://leetcode.com/problems/powx-n/description/)***
 ## YouTube Channel 
 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
