@@ -433,6 +433,29 @@ All about objects and classes
 ### Array 3
 - Search in a 2 D matrix [solution](./Matrix/lec4_Search2DMatrix.cpp) :- ***[LC](https://leetcode.com/problems/search-a-2d-matrix/description/)***
 - Pow(x, n) [solution](./sde_sheet/lec_11.cpp) :- ***[LC](https://leetcode.com/problems/powx-n/description/)***
+- Majority Element (>n/2 times) [solution](./sde_sheet/lec_12.cpp) :- ***[LC](https://leetcode.com/problems/majority-element/description/)***
+- Majority Element (n/3 times) [solution](./sde_sheet/lec_13.cpp) :- ***[LC](https://leetcode.com/problems/majority-element-ii/description/)***
+### Array 4
+- 2 sum [solution](./sde_sheet/lec_14.cpp) :- ***[LC](https://leetcode.com/problems/two-sum/description/)***
+- 3 sum [solution](./sde_sheet/lec_15.cpp) :- ***[LC](https://leetcode.com/problems/3sum/description/)***
+- 4 sum [solution](./sde_sheet/lec_16.cpp) :- ***[LC](https://leetcode.com/problems/4sum/description/)***
+- Longest Consecutive Sequence [solution](./sde_sheet/lec_17.cpp) :- ***[LC](https://leetcode.com/problems/longest-consecutive-sequence/description/)***
+- Largest Subarray with K sum [solution](./sde_sheet/lec_18.cpp) :- ***[LC](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)*** 
+- Largest Subarray with K sum [solution](./sde_sheet/lec_19.cpp) :- ***[LC](https://leetcode.com/problems/longest-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)***
+- Count number of subarrays with given xor K [solution](./sde_sheet/lec_20.cpp) :- ***[LC](https://leetcode.com/problems/subarray-sum-equals-k/description/)***
+- Longest Substring without repeating characters [solution](./sde_sheet/lec_21.cpp) :- ***[LC](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)***
+
+
+### Linked list 1
+- Merge two sorted Linked List (use method used in mergeSort) [solution](./sde_sheet/lec_22.cpp) :- ***[LC](https://leetcode.com/problems/merge-two-sorted-lists/description/)***
+- add two numbers [solution](./sde_sheet/lec_23.cpp) :- ***[LC](https://leetcode.com/problems/add-two-numbers/description/)***
+- Delete a given Node when a node is given.(0(1) solution) [solution](./sde_sheet/lec_24.cpp) :- ***[LC](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)***
+
+### Linked list 2
+- Find intersection point of Y LinkedList [solution](./sde_sheet/lec_25.cpp) :- ***[LC](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)***
+- Detect a cycle in a linked list [solution](./sde_sheet/lec_26.cpp) :- ***[LC](https://leetcode.com/problems/linked-list-cycle/description/)***
+- Find the starting point of the Loop of LinkedList [solution](./sde_sheet/lec_27.cpp) :- ***[LC](https://leetcode.com/problems/linked-list-cycle-ii/description/)***
+- 
 ## YouTube Channel 
 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
