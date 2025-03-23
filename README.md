@@ -36,6 +36,9 @@ Yellow arrow indicates "platform name" , which on clicking ; navigates you to th
 14. [Graph](#graph)
 15. [Heap](#heap)
 16. [Dynamic Programming](#dynamic-programming)
+17. [Greedy](#greedy)
+
+## Bonus Section [SDE SHEET](#sde-sheet)
 ## Basic DSA /Math Problems 
 $1$ [ArmStrongNO](./basic_prblmsDSA/armstrong.cpp) ; $2$ [BishopMoves](./basic_prblmsDSA/bishopmoves.cpp):- ***[IB](https://www.interviewbit.com/problems/total-moves-for-bishop/)*** ; $3$ [bitDiff](./basic_prblmsDSA/bitDiff.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** $4$ [ComplimentNo](./basic_prblmsDSA/complimentOfNo.cpp):-***[LC](https://leetcode.com/problems/complement-of-base-10-integer/description/)*** ; $5$ [DistributeCircle](./basic_prblmsDSA/distributeInCircle.cpp):-***[IB](https://www.interviewbit.com/problems/distribute-in-circle/)*** ; $6$ [NimGame](./basic_prblmsDSA/NimGame.cpp):-***[LC](https://leetcode.com/problems/nim-game/)*** ; $7$ [AddDigits](./basic_prblmsDSA/p1_AddDigits.cpp):-***[LC](https://leetcode.com/problems/add-digits/description/)*** ; $8$ [LeapYear](./basic_prblmsDSA/p2_LeapYear.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/leap-year0943/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)*** ; $9$ [RevInt](./basic_prblmsDSA/p3_ReverseInteger.cpp):-***[gfg](https://leetcode.com/problems/reverse-integer/description/)*** ; $10$ [PowerOf2](./basic_prblmsDSA/p4_PowerOfTwo.cpp):- ***[LC](https://leetcode.com/problems/power-of-two/description/)*** ; $11$  [PalandromeNo](./basic_prblmsDSA/palandrone.cpp):-***[LC](https://leetcode.com/problems/palindrome-number/description/)*** ; $12$ [CheckRectangle](./basic_prblmsDSA/rectangleOrnot.cpp):- ***[IB](https://www.interviewbit.com/problems/is-rectangle/)*** ; $13$ [SetBits](./basic_prblmsDSA/setBits.cpp):-***[gfg](https://www.geeksforgeeks.org/problems/set-bits0143/1)*** ; $14$ [NbyNChessBoard](./basic_prblmsDSA/sqrNbyNchessBoard.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Numbers&sortBy=submissions)*** ; $15$ [Sqrt](./basic_prblmsDSA/sqrt.cpp):- ***[LC](https://leetcode.com/problems/sqrtx/description/
 )***  ; $16$ [TotalSetBits](./basic_prblmsDSA/totalSetBits.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)*** ; $17$ [TralingZeroesFact](./basic_prblmsDSA/trailingzero.cpp):- ***[gfg](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)*** ; $18$ [uglyNo](./basic_prblmsDSA/uglyNo.cpp):- ***[LC](https://leetcode.com/problems/ugly-number/)***
@@ -351,6 +354,8 @@ All about objects and classes
     - [Priority Queue](./Heap/lec9_4.cpp)
 
 
+## Greedy
+- 	Fractional Knapsack Problem [Approach](./Greedy/lec1_1.cpp) :- ***[gfg](https://www.geeksforgeeks.org/fractional-knapsack-problem/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)***
 ## Dynamic Programming
 
 ### Introduction to DP
@@ -456,6 +461,11 @@ All about objects and classes
 - Detect a cycle in a linked list [solution](./sde_sheet/lec_26.cpp) :- ***[LC](https://leetcode.com/problems/linked-list-cycle/description/)***
 - Find the starting point of the Loop of LinkedList [solution](./sde_sheet/lec_27.cpp) :- ***[LC](https://leetcode.com/problems/linked-list-cycle-ii/description/)***
 - 
+
+### Linked list and array
+- 	Max consecutive ones [solution](./sde_sheet/lec_28.cpp) :- ***[LC](https://leetcode.com/problems/max-consecutive-ones/description/)***
+- Remove Duplicate from Sorted array [solution](./sde_sheet/lec_29.cpp) :- ***[LC](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)***
+
 ## YouTube Channel 
 
  Check out the accompanying YouTube channel for video explanations and tutorials: [Coder Army](https://youtube.com/@CoderArmy9?si=vc7X_Fis2kOgsE7i)
